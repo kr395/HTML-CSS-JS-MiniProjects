@@ -1,0 +1,1 @@
+const inputFild = document.getElementById('city_name');
